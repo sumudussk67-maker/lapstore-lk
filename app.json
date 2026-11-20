@@ -1,0 +1,11 @@
+
+{
+  "expo": {
+    "name": "LapStore LK",
+    "slug": "lapstore-lk",
+    "version": "1.0.0",
+    "scheme": "lapstore",
+    "orientation": "portrait",
+    "plugins": ["expo-router", "expo-status-bar", "expo-notifications"]
+  }
+}
