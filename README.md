@@ -50,4 +50,3 @@ cd lapstore-lk
 npm install --legacy-peer-deps
 npx expo start
 ```
-Scan the QR code with Expo Go on a phone connected to the same Wi-Fi.
