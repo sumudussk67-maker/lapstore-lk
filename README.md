@@ -45,7 +45,7 @@ I read the expo-notifications documentation and learned that a notification hand
 
 ## 8. Run locally
 ```bash
-git clone YOUR_REPO_URL
+git clone https://github.com/sumudussk67-maker/lapstore-lk.git
 cd lapstore-lk
 npm install --legacy-peer-deps
 npx expo start
